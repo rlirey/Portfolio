@@ -1,4 +1,4 @@
-# Regression work
+# Portfolio of academic and professional work
 
 ### 1. Los Angeles Parking Citations: 
 ***e2e_regression_parkingcitations_2018.ipynb***
